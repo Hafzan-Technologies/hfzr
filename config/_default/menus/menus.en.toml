@@ -40,31 +40,32 @@
   identifier = "other"
   url = "/wiki/other/"
 
-[[main]]
-  name = "Wiki"
-  url = "/wiki/"
+#[[main]]
+ # name = "Wiki"
+  #url = "/wiki/"
 # url = "/wiki/1.0/prologue/introduction/"
-  weight = 10
+  #weight = 10
+
 
 [[main]]
-  name = "Скачать"
-  url = "/get"
+  name = "Insights"
+  url = "/changelog/"
+  weight = 10
+
+#[[main]]
+ # name = "Поддержать"
+  #url = "/donat"
+  #weight = 40
+
+[[main]]
+  name = "About Us"
+  url = "/wiki/#ресурсы-ctlos"
   weight = 20
 
 [[main]]
-  name = "Обновления"
-  url = "/changelog/"
+  name = "Contact Us"
+  url = "/get"
   weight = 30
-
-[[main]]
-  name = "Поддержать"
-  url = "/donat"
-  weight = 40
-
-[[main]]
-  name = "Сообщество"
-  url = "/wiki/#ресурсы-ctlos"
-  weight = 50
 
 [[social]]
   name = "GitHub"
