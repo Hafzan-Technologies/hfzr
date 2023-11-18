@@ -1,4 +1,4 @@
-baseurl = "https://ctlos.github.io/"
+baseurl = "https://hafzan-technologies.github.io/hfzr/"
 canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
