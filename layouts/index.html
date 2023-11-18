@@ -2,13 +2,13 @@
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">
     <div class="col-lg-12 text-center">
-      <img src="/logo.svg" alt="Ctlos Logo" style="max-width:180px" class="mb-4">
+      <img src="/logo.svg" alt="Hafzan Research Logo" style="max-width:180px" class="mb-4">
       <h1 class="mt-0">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/get" role="button">Скачать</a>
-      <a class="btn btn-outline-primary btn-lg px-4 mb-2" href="/wiki/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}install/install-ctlos" role="button">Установка</a>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="/wiki/" role="button">About Us</a>
+      <a class="btn btn-outline-primary btn-lg px-4 mb-2" href="/changelog/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}" role="button">Insights</a>
       <div class="meta mb-4">
         <img src="https://img.shields.io/github/downloads/ctlos/ctlosiso/total.svg?style=social">
         <a href="https://github.com/ctlos/ctlosiso/stargazers" target="_blank">
