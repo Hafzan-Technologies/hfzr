@@ -70,6 +70,6 @@ Join our community of authors, industry thought leaders, and professionals. Coll
 
 {{< img src="/images/contributors/hafzan.png" alt="Alex Creio" class="rounded-circle" width="150px" >}}
 
-[Amaanullah Bhatti](https://www.linkedin.com/in/amaanullah-bhatti-b87754281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+ [Amaanullah Bhatti] (https://www.linkedin.com/in/amaanullah-bhatti-b87754281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 > Founder at Hafzan Research
