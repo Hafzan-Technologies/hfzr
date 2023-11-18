@@ -50,7 +50,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Gen: <a target=\"_blank\" rel=\"noopener\" href=\"https://gohugo.io\">Hugo</a> | Fork: <a target=\"_blank\" rel=\"noopener\" href=\"https://getdoks.org\">Doks</a>"
+footer = "Created by: <a target=\"_blank\" rel=\"noopener\" href=\"https://github.com/hafzan-technologies\">Hafzan Technologies</a>"
 
 # Feed
 copyRight = "Copyright (c) Hafzan Research"
