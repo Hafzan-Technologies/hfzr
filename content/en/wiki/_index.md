@@ -14,7 +14,7 @@ images: []
 
 At Hafzan Research, our mission is to unravel the complexities of the business landscape, providing accurate and insightful research that empowers decision-makers and enthusiasts alike. We are committed to the passionate pursuit of truth and the delivery of knowledge that drives positive change.
 
-## Vision:   
+## Vision:
 
 Our vision is to be a leading force in the research industry, recognized for our unwavering commitment to excellence, innovation, and the highest standards of integrity. We aim to shape a future where informed decisions are the cornerstone of success.
 
