@@ -9,12 +9,7 @@
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" href="/wiki/" role="button">About Us</a>
       <a class="btn btn-outline-primary btn-lg px-4 mb-2" href="/changelog/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}" role="button">Insights</a>
-      <div class="meta mb-4">
-        <img src="https://img.shields.io/github/downloads/ctlos/ctlosiso/total.svg?style=social">
-        <a href="https://github.com/ctlos/ctlosiso/stargazers" target="_blank">
-          <img src="https://img.shields.io/github/stars/ctlos/ctlosiso?style=social&logo=github">
-        </a>
-      </div>
+
       <!-- <p class="meta">Open-source. <a href="https://github.com/ctlos/ctlosiso" target="_blank">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p> -->
     </div>
   </div>
