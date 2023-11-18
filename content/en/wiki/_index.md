@@ -70,6 +70,6 @@ Join our community of authors, industry thought leaders, and professionals. Coll
 
 {{< img src="/images/contributors/hafzan.png" alt="Amaanullah Bhatti" class="rounded-circle" width="150px" >}}
 
-[Amaanullah Bhatti](https://ammanullah.github.io) — aka Hafzan Osmanoğlu. 
+[Amaanullah Bhatti] *aka Hafzan Osmanoğlu.*
 
 > Founder at Hafzan Research
