@@ -59,7 +59,7 @@
 
 [[main]]
   name = "About Us"
-  url = "/wiki/#ресурсы-ctlos"
+  url = "/about"
   weight = 20
 
 [[main]]
