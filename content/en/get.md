@@ -35,9 +35,8 @@ description: Get connected.
     <input type="text" placeholder="Name" id="name" name="name" required>
     
   <input type="email" id="email" placeholder="Email" name="email" required>
-    
-  <textarea id="message" name="message" placeholder="Message" rows="4" required></textarea>
   
+  <textarea id="message" name="message" placeholder="Message" rows="4" required></textarea>
   
   <button type="submit">Submit</button>
 </form>
