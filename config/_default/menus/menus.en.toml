@@ -69,7 +69,7 @@
 
 [[social]]
   name = "GitHub"
-  pre = "<i class=\"bi bi-linkedin"></i>"
+  pre = "<i class=\"bi bi-linkedin\"></i>"
   url = "https://www.linkedin.com/company/hafzan-research/"
   post = "v0.1.0"
   weight = 20
