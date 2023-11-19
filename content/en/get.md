@@ -15,4 +15,3 @@ description: Get connected.
 
   <button type="submit" style="background-color: black; color: white; padding: 10px 15px; border: 4px solid white; border-radius: 4px; cursor: pointer;">Submit</button>
 </form>
-
