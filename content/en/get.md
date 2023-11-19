@@ -12,7 +12,6 @@ description: Get connected.
             padding: 20px;
             border: none;
         }
-        }
         input,
         textarea {
             width: 100%;
