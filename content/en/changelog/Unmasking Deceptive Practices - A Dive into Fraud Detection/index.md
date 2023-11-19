@@ -1,10 +1,8 @@
 ---
 title: Unmasking Deceptive Practices - A Dive into Fraud Detection
-date: 2019-06-11
+date: 2023-11-19
 contributors: ["Amaanullah"]
 ---
-
-# Unmasking Deceptive Practices - A Dive into Fraud Detection
 
 Fraud, the silent saboteur of financial ecosystems, operates in the shadows, preying on the unsuspecting and threatening the stability of businesses and investments alike. In this in-depth exploration, we navigate the intricate world of fraud detection, aiming to empower readers with a comprehensive understanding of the deceptive practices that lurk beneath the surface.
 
