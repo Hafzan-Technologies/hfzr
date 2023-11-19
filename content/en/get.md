@@ -1,7 +1,9 @@
 ---
-title: Скачать ctlos — страница загрузки
-description: Актуальные релизы для скачивания всегда представлены на данной странице.
+title: Contact Us
+description: Get connected.
 ---
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/233218125222444"></script>
 
 Только для x86-64(64-bit) архитектуры процессора.
 
