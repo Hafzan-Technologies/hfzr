@@ -31,7 +31,7 @@ description: Get connected.
   </style>
 </head>
 <body>
-  <form action="submit_form.php" method="post">
+  <form action="https://airform.io/hafzanweb@gmail.com" method="post">
   <input type="text" placeholder="Name" id="name" name="name" required>
   
   <input type="email" id="email" placeholder="Email" name="email" required>
