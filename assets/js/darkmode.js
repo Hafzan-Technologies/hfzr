@@ -6,13 +6,13 @@ if (mode !== null) {
 
     if (event.matches) {
 
-      localStorage.setItem('theme', 'dark');
-      document.documentElement.setAttribute('data-dark-mode', '');
+      localStorage.setItem('theme', 'light');
+      document.documentElement.removeAttribute('data-dark-mode', '');
 
     } else {
 
-      localStorage.setItem('theme', 'light');
-      document.documentElement.removeAttribute('data-dark-mode');
+      localStorage.setItem('theme', 'dark');
+      document.documentElement.setAttribute('data-dark-mode');
 
     }
 
