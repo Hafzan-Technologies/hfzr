@@ -13,5 +13,5 @@ description: Get connected.
   <label style="display: block; margin-bottom: 8px;">Message:</label>
         <textarea id="message" name="message" rows="4" style="width: 100%; padding: 10px; margin-bottom: 16px; box-sizing: border-box;" required></textarea>
 
-  <button type="submit" style="background-color: #0000; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer;">Submit</button>
+  <button type="submit" style="background-color: black; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer;">Submit</button>
     </form>
