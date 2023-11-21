@@ -7,11 +7,7 @@
 Добавлено (added):
 xreader pfetch-git gotop-bin ctl-theme</description></item><item><title>Релиз Ctlos Linux — Openbox v1.2.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-1-2-0/</link><pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-1-2-0/</guid><description>Ядро linux 5.5.8.
 Тема оформления: ctl-dark - основа на Layan-gtk-theme. Иконки dui-ico. Добавлено (added):
-inxi imagewrater ctlos-welcome ctl-theme Исходники Master ветка.</description></item><item><title>Ctlos Linux Xfce v1.4.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-4-0/</link><pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-4-0/</guid><description>Блокировка экрана i3lock-fancy, установку можно выполнять без интернет соединения. Ядро 5.1.8.
-Добавлено (added):
-lxqt-policykit xfce4-windowck-plugin i3lock-fancy Удалено (removed):
-light-locker xfce-polkit-git Обновлено (update):
-calamares 3.2.9 Полный список пакетов: packages.both.</description></item><item><title>Релиз Ctlos Linux — Openbox,i3 v2.2</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-2-2/</link><pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-2-2/</guid><description>Ядро linux 5.1.4. Тема sddm - darkine. Тема оформления: ln - основа Arc. Иконки ln-ico, ll-ico - основа Suru++. Немного переделал polybar.
+inxi imagewrater ctlos-welcome ctl-theme Исходники Master ветка.</description></item><item><title>Релиз Ctlos Linux — Openbox,i3 v2.2</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-2-2/</link><pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-2-2/</guid><description>Ядро linux 5.1.4. Тема sddm - darkine. Тема оформления: ln - основа Arc. Иконки ln-ico, ll-ico - основа Suru++. Немного переделал polybar.
 Возможность использования polybara в openbox, В ~/.config/openbox/autostart раскоментить строку sh ~/.config/polybar/launch.sh &amp;amp;, а в настройках tint2 переместить панель вниз и закоментить plank в автостарте(по желанию) plank &amp;amp;.
 Добавлено (added):
 catfish - поиск файлов. gnome-disk-utility grub-customizer Полный список пакетов: packages.both.</description></item></channel></rss>
