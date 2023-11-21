@@ -6,9 +6,7 @@ Introduction # Fraud detection stands as a sentinel against the ever-evolving ta
 Подробный мануал в блоге creio.github.io.
 Исправлены совместимости некоторых скриптов.
 Добавлено (added):
-xreader pfetch-git gotop-bin ctl-theme</description></item><item><title>Релиз Ctlos Linux — Xfce v1.6.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-6-0/</link><pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-6-0/</guid><description>Ядро 5.5.8.
-Добавлено (added):
-atril inxi imagewrater ctlos-welcome ctl-theme xfce4-netload-plugin Исходники xfce ветка.</description></item><item><title>Релиз Ctlos Linux — Openbox v1.2.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-1-2-0/</link><pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-1-2-0/</guid><description>Ядро linux 5.5.8.
+xreader pfetch-git gotop-bin ctl-theme</description></item><item><title>Релиз Ctlos Linux — Openbox v1.2.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-1-2-0/</link><pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-openbox-1-2-0/</guid><description>Ядро linux 5.5.8.
 Тема оформления: ctl-dark - основа на Layan-gtk-theme. Иконки dui-ico. Добавлено (added):
 inxi imagewrater ctlos-welcome ctl-theme Исходники Master ветка.</description></item><item><title>Ctlos Linux Xfce v1.4.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-4-0/</link><pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-4-0/</guid><description>Блокировка экрана i3lock-fancy, установку можно выполнять без интернет соединения. Ядро 5.1.8.
 Добавлено (added):
