@@ -20,6 +20,8 @@ inxi imagewrater ctlos-welcome ctl-theme Исходники Master ветка.</
 Добавлено (added):
 cava Удалено (removed):
 mintstick-git Обновлено (update):
-calamares 3.2.17.1 Полный список пакетов: packages.both.</description></item><item><title>Ctlos Linux Xfce v1.5.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-5-0/</link><pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-5-0/</guid><description>Ядро 5.3.8.
+calamares 3.2.17.1 Полный список пакетов: packages.both.</description></item><item><title>Ctlos Linux Xfce v1.4.0</title><link>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-4-0/</link><pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate><guid>https://hafzan-technologies.github.io/hfzr/changelog/ctlos-xfce-1-4-0/</guid><description>Блокировка экрана i3lock-fancy, установку можно выполнять без интернет соединения. Ядро 5.1.8.
 Добавлено (added):
-alacarte Полный список пакетов: packages.both.</description></item></channel></rss>
+lxqt-policykit xfce4-windowck-plugin i3lock-fancy Удалено (removed):
+light-locker xfce-polkit-git Обновлено (update):
+calamares 3.2.9 Полный список пакетов: packages.both.</description></item></channel></rss>
