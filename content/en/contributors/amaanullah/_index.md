@@ -14,7 +14,8 @@ Creator: [@hafzan](https://www.linkedin.com/in/amaanullah-bhatti-b87754281/).
 [Amaanullah Bhatti](https://www.linkedin.com/in/amaanullah-bhatti-b87754281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (*Hafzan Osmanoğlu.*)
 
 > *Founder at Hafzan Research*
-> ##### CS Executive & BBA (Financial Markets) Student | Certified Google Analytics & Bing Ads Professional | Investment Banking Analyst
+
+##### CS Executive & BBA (Financial Markets) Student | Certified Google Analytics & Bing Ads Professional | Investment Banking Analyst
 
 Enthusiastic and driven, I am currently pursuing studies in Financial Markets while working towards my CS qualification. My educational journey has ignited a strong passion for understanding market dynamics, analyzing trends, and making informed investment decisions.
 
