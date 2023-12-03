@@ -26,7 +26,7 @@ I am open to connecting with others to share insights, collaborate on financial 
 > ## Licences & Certificatons
 
 1. **Development Economics - Marginal Revolution University**\
-   *Issued: Dec 2023*\n
+   *Issued: Dec 2023* \n
     Developed a comprehensive understanding of Development Economics, demonstrating proficiency in economic principles and strategic planning.
 
 2. **Anti Money Laundering | مكافحة غسل الأموال - Alfaisal University**
