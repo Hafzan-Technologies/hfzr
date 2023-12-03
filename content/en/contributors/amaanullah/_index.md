@@ -22,11 +22,11 @@ I am open to connecting with others to share insights, collaborate on financial 
 1. **Development Economics - Marginal Revolution University**
    - *Issued: Dec 2023*
    - Developed a comprehensive understanding of Development Economics, demonstrating proficiency in economic principles and strategic planning.
-\
+<p>&nbsp;</p>
 2. **Anti Money Laundering | مكافحة غسل الأموال - Alfaisal University**
    - *Issued: Nov 2023 | Credential ID: 9LFF3R24YXXV*
    - Acquired expertise in Anti Money Laundering, showcasing the ability to navigate financial regulations and contribute to risk management strategies.
-\
+<p>&nbsp;</p>
 3. **Certified Google Analytics Professional - Google**
    - *Issued: Nov 2023 | Credential ID: 228031904*
    - Attained professional accreditation in Google Analytics, highlighting proficiency in leveraging data analytics for informed decision-making.
