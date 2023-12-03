@@ -7,8 +7,6 @@ draft: false
 images: []
 ---
 
-Creator: [@hafzan](https://www.linkedin.com/in/amaanullah-bhatti-b87754281/).
-
 {{< img src="/images/contributors/hafzan.png" alt="Amaanullah Bhatti" class="rounded-circle" width="150px" >}}
 
 [Amaanullah Bhatti](https://www.linkedin.com/in/amaanullah-bhatti-b87754281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (*Hafzan Osmanoğlu.*)
