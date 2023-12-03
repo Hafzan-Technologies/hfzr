@@ -19,6 +19,7 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 ## Licences & Certificatons
 
+<div style="text-align: left;">
 1. **Development Economics - Marginal Revolution University**
    - *Issued: Dec 2023*
    - Developed a comprehensive understanding of Development Economics, demonstrating proficiency in economic principles and strategic planning.
@@ -286,3 +287,5 @@ I am open to connecting with others to share insights, collaborate on financial 
 67. **Javascript - Sololearn**
     - *Issued: Dec 2017 | Credential ID: #1024-7221049*
     - Gained proficiency in Javascript, a versatile scripting language for web development.
+</div>
+
