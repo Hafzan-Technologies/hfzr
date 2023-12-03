@@ -35,11 +35,11 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 3. **Certified Google Analytics Professional - Google**
    - *Issued: Nov 2023 | Credential ID: 228031904*
-   - Attained professional accreditation in Google Analytics, highlighting proficiency in leveraging data analytics for informed decision-making.
+   - Attained professional accreditation in Google Analytics, highlighting proficiency in leveraging data analytics for informed decision-making.<br  />
 
 4. **Data Analytics Consulting - KPMG Australia**
    - *Issued: Nov 2023 | Credential ID: muhKY72Fb5DCvZPS6*
-   - Demonstrated skills in data analytics consulting, showcasing the ability to derive valuable insights from complex datasets.
+   - Demonstrated skills in data analytics consulting, showcasing the ability to derive valuable insights from complex datasets.<br  />
 
 5. **Data Visualization with Advanced Excel - PwC**
    - *Issued: Nov 2023 | Credential ID: X5DQRTXQWVD5*
