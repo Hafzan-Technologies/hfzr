@@ -4,6 +4,8 @@ date: 2023-12-03
 contributors: ["Amaanullah"]
 ---
 
+#### **Introduction: A Journey from Desperation to Triumph**
+
 Nestled at the tip of Malaysia, Singapore, an island nation, has defied expectations and emerged as a global economic powerhouse. Despite its small size, slightly smaller than New York City, and a population of 5.6 million, this nation has achieved an economic output of nearly half a trillion US dollars, ranking as the 33rd largest economy worldwide. In the following sections, we delve into the historical, geographic, and governmental factors that played pivotal roles in Singapore's remarkable transformation from a post-war slum to an economic marvel.
 
 #### **Historical Context: The Unusual Path to Independence**
