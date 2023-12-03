@@ -88,8 +88,8 @@ I am open to connecting with others to share insights, collaborate on financial 
     - Acquired skills in Management Consulting, contributing to strategic decision-making and organizational improvement.
 
 18. **Microsoft Word - Business Documents - Corporate Finance Institute® (CFI)**
-   - *Issued: Oct 2023 | Credential ID: 84267617*
-   - Completed a course focusing on Microsoft Word for creating and managing business documents, enhancing proficiency in business communication and documentation.
+    - *Issued: Oct 2023 | Credential ID: 84267617*
+    - Completed a course focusing on Microsoft Word for creating and managing business documents, enhancing proficiency in business communication and documentation.
 
 19. **SIMSREE Trading League - Sydenham Institute of Management Studies, Research and Entrepreneurship Education (SIMSREE)**
     - *Issued: Oct 2023 | Credential ID: 8a42107f-a2e8-4862-b7f3-a984ae1ec947*
