@@ -173,5 +173,3 @@ I am open to connecting with others to share insights, collaborate on financial 
 - **Gujarati:** Full professional proficiency
 - **Arabic:** Limited working proficiency
 - **Turkish:** Limited working proficiency
-
-
