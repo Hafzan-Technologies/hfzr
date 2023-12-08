@@ -21,6 +21,8 @@ With a keen eye for detail and a commitment to continuous learning, I aspire to 
 
 I am open to connecting with others to share insights, collaborate on financial projects, or engage in conversations about the dynamic world of investments. Let's explore the possibilities together!
 
+---
+
 ### Education
 
 - **CS Executive**  
@@ -128,19 +130,6 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 ---
 
-### Publications
-
-- **The Lost Generation - Unraveling Japan's Economic Narrative and Societal Impact**
-  December 6, 2023
-
-- **The Singapore Success Story - A Multifaceted Analysis of Economic Development, Governance Strategies, and Global Positioning**
-  December 3, 2023
-
-- **Analysis and Insights from Peter Lynch's 'One Up on Wall Street' - A Methodical Examination of Investment Strategies for Individual Investors**
-  November 22, 2023
-
----
-
 ### Projects
 
 - **Hafzan Coin (Cryptocurrency Token)**
@@ -173,3 +162,7 @@ I am open to connecting with others to share insights, collaborate on financial 
 - **Gujarati:** Full professional proficiency
 - **Arabic:** Limited working proficiency
 - **Turkish:** Limited working proficiency
+
+---
+
+### Publications
