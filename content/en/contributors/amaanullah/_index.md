@@ -75,151 +75,79 @@ Certainly! Here's the information formatted as it is:
 
 ---
 
-• **Asia Analyst Development Program - JPMorgan Chase & Co.**
-
-• *Aspects of Prevention of Money Laundering Activities* - National Institute of Securities Markets (NISM)
-
-• **Business and Human Rights Global - Clifford Chance**
-
-• *Career Catalyst Advisory* - KPMG US
-
-• *Virtual Stock Market Event* - GSFC University
-
-• *Aspects of Prevention of Money Laundering Activities* - National Institute of Securities Markets (NISM)
-
-• *Development Economics* - Marginal Revolution University
-
-• *Anti Money Laundering* - Alfaisal University
-
-• *Certified Google Analytics Professional* - Google
-
-• *Data Analytics Consulting* - KPMG Australia
-
-• *Data Visualization with Advanced Excel* - PwC
-
-• *Do Well Do Good Quiz* - Indian Institute of Management, Calcutta
-
-• *FINQUEST'23: Where Finance Meets Entrepreneurship of Global Entrepreneurship Week 2023* - Aryabhatta College, University Of Delhi
-
-• *Green Economy and Trade* - Partnership for Action on Green Economy (PAGE)
-
-• *Green Industrial Policy* - Partnership for Action on Green Economy (PAGE)
-
-• *Introduction to Capital Markets* - Corporate Finance Institute® (CFI)
-
-• *NISM Financial Literacy Quiz* - National Institute of Securities Markets (NISM)
-
-• *Private Equity and Venture Capital* - Università Bocconi | Coursera
-
-• *Quantitative and qualitative research in finance* - The Open University
-
-• *The India Policy: The Open India Quiz* - Indian Institute of Management, Calcutta
-
-• *Global Diplomacy - Diplomacy in the Modern World* - University of London
-
-• *Investment Banking* - Citi
-
-• *Management Consulting* - PwC
-
-• *Microsoft Word - Business Documents* - Corporate Finance Institute® (CFI)
-
-• *SIMSREE Trading League* - Sydenham Institute of Management Studies, Research and Entrepreneurship Education (SIMSREE)
-
-• *Talent Titan Quiz Participation* - National Institute of Technology Calicut
-
-• *The Economics of Festivals 2.0 Quiz* - Indian Institute of Management Rohtak
-
-• *5-Day Soft Skill Training and Mock Interview* - Indian Institute of Technology, Madras
-
-• *Financial Markets* - Yale University
-
-• *Investment Analysis & Portfolio Management* - NSE India
-
-• *Strategy Consulting Virtual Internship* - Accenture
-
-• *Understanding Financial Markets* - University of Geneva
-
-• *Certificate of Participation in Shri Ram Trading Challenge of Shri Ram Trading Challenge 2023* - Shri Ram College of Commerce
-
-• **Corporate Analyst Development Program (CADP) - JPMorgan Chase & Co.**
-
-• *Wealth and Personal Banking virtual internship* - HSBC
-
-• *Asset allocation in investment* - The Open University
-
-• *Liquidity management* - The Open University
-
-• *Options Trading* - Varsity By Zerodha®
-
-• *Fundamental Analysis* - Varsity By Zerodha®
-
-• *Stock Market Basics* - Varsity By Zerodha®
-
-• *Technical Analysis* - Varsity By Zerodha®
-
-• *Reading Financial Statements* - Corporate Finance Institute® (CFI)
-
-• *Effective Presentations* - HP
-
-• *Computer Science 101* - Stanford Online
-
-• *The Fundamentals of Digital Marketing* - Google Digital Garage
-
-• *Android Enterprise Professional* - Google
-
-• *Bing Ads Accredited Professional status* - Microsoft
-
-• *Introductory course to International Environmental Law* - InforMEA
-
-• *Introduction to Sustainable Finance* - Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
-
-• *Specialized Module on Cities and Climate Change* - United Nations Institute for Training and Research (UNITAR)
-
-• *Google My Business* - Google
-
-• *Launching Microsoft Teams to the Company: How We Got Ready* - Microsoft
-
-• *Mobile in Display & Video 360 Basics* - Google
-
-• *Windows 10: Speech Recognition and Cortana Integration* - Microsoft
-
-• *YouTube creative essentials* - Google
-
-• *3D Printing* - HP
-
-• *ASP .NET core* - Microsoft
-
-• *Edit and Manage Facebook Ads* - Facebook
-
-• *Facebook and Instagram* - Facebook
-
-• *Google Web Designer Basics* - Google
-
-• *IT Expert Roundtable Information Protection at Microsoft* - Microsoft
-
-• *Redesign for the Cloud: Building a Cloud-First Network at Microsoft* - Microsoft
-
-• *Send/Receive API: Building for the Messenger Platform* - Facebook
-
-• *Top Design Thinking Concepts* - Microsoft
-
-• *C++* - Sololearn
-
-• *CSS* - Sololearn
-
-• *HTML* - Sololearn
-
-• *JQuery* - Sololearn
-
-• *Java* - Sololearn
-
-• *PHP* - Sololearn
-
-• *SQL* - Sololearn
-
-• *Swift 4* - Sololearn
-
-• *Javascript* - Sololearn
+- Asia Analyst Development Program - JPMorgan Chase & Co.
+- Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
+- Business and Human Rights Global - Clifford Chance
+- Career Catalyst Advisory - KPMG US
+- Virtual Stock Market Event - GSFC University
+- Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
+- Development Economics - Marginal Revolution University
+- Anti Money Laundering - Alfaisal University
+- Certified Google Analytics Professional - Google
+- Data Analytics Consulting - KPMG Australia
+- Data Visualization with Advanced Excel - PwC
+- Do Well Do Good Quiz - Indian Institute of Management, Calcutta
+- FINQUEST'23: Where Finance Meets Entrepreneurship of Global Entrepreneurship Week 2023 - Aryabhatta College, University Of Delhi
+- Green Economy and Trade - Partnership for Action on Green Economy (PAGE)
+- Green Industrial Policy - Partnership for Action on Green Economy (PAGE)
+- Introduction to Capital Markets - Corporate Finance Institute® (CFI)
+- NISM Financial Literacy Quiz - National Institute of Securities Markets (NISM)
+- Private Equity and Venture Capital - Università Bocconi | Coursera
+- Quantitative and qualitative research in finance - The Open University
+- The India Policy: The Open India Quiz - Indian Institute of Management, Calcutta
+- Global Diplomacy - Diplomacy in the Modern World - University of London
+- Investment Banking - Citi
+- Management Consulting - PwC
+- Microsoft Word - Business Documents - Corporate Finance Institute® (CFI)
+- SIMSREE Trading League - Sydenham Institute of Management Studies, Research and Entrepreneurship Education (SIMSREE)
+- Talent Titan Quiz Participation - National Institute of Technology Calicut
+- The Economics of Festivals 2.0 Quiz - Indian Institute of Management Rohtak
+- 5-Day Soft Skill Training and Mock Interview - Indian Institute of Technology, Madras
+- Financial Markets - Yale University
+- Investment Analysis & Portfolio Management - NSE India
+- Strategy Consulting Virtual Internship - Accenture
+- Understanding Financial Markets - University of Geneva
+- Certificate of Participation in Shri Ram Trading Challenge of Shri Ram Trading Challenge 2023 - Shri Ram College of Commerce
+- Corporate Analyst Development Program (CADP) - JPMorgan Chase & Co.
+- Wealth and Personal Banking virtual internship - HSBC
+- Asset allocation in investment - The Open University
+- Liquidity management - The Open University
+- Options Trading - Varsity By Zerodha®
+- Fundamental Analysis - Varsity By Zerodha®
+- Stock Market Basics - Varsity By Zerodha®
+- Technical Analysis - Varsity By Zerodha®
+- Reading Financial Statements - Corporate Finance Institute® (CFI)
+- Effective Presentations - HP
+- Computer Science 101 - Stanford Online
+- The Fundamentals of Digital Marketing - Google Digital Garage
+- Android Enterprise Professional - Google
+- Bing Ads Accredited Professional status - Microsoft
+- Introductory course to International Environmental Law - InforMEA
+- Introduction to Sustainable Finance - Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH
+- Specialized Module on Cities and Climate Change - United Nations Institute for Training and Research (UNITAR)
+- Google My Business - Google
+- Launching Microsoft Teams to the Company: How We Got Ready - Microsoft
+- Mobile in Display & Video 360 Basics - Google
+- Windows 10: Speech Recognition and Cortana Integration - Microsoft
+- YouTube creative essentials - Google
+- 3D Printing - HP
+- ASP .NET core - Microsoft
+- Edit and Manage Facebook Ads - Facebook
+- Facebook and Instagram - Facebook
+- Google Web Designer Basics - Google
+- IT Expert Roundtable Information Protection at Microsoft - Microsoft
+- Redesign for the Cloud: Building a Cloud-First Network at Microsoft - Microsoft
+- Send/Receive API: Building for the Messenger Platform - Facebook
+- Top Design Thinking Concepts - Microsoft
+- C++ - Sololearn
+- CSS - Sololearn
+- HTML - Sololearn
+- JQuery - Sololearn
+- Java - Sololearn
+- PHP - Sololearn
+- SQL - Sololearn
+- Swift 4 - Sololearn
+- Javascript - Sololearn
 
 ---
 
