@@ -71,6 +71,8 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 ### Certifications
 
+##### 72 Certifications in total
+
 ---
 
 - Asia Analyst Development Program - JPMorgan Chase & Co.
