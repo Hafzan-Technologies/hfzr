@@ -71,8 +71,6 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 ### Certifications
 
-Certainly! Here's the information formatted as it is:
-
 ---
 
 - Asia Analyst Development Program - JPMorgan Chase & Co.
