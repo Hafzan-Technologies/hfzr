@@ -71,24 +71,24 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 ### Certifications
 
-1.	Asia Analyst Development Program - JPMorgan Chase & Co.
-2.	Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
-3.	Business and Human Rights Global - Clifford Chance
-4.	Career Catalyst Advisory - KPMG US
-5.	Virtual Stock Market Event - GSFC University
-6.	Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
-7.	Development Economics - Marginal Revolution University
-8.	Anti Money Laundering - Alfaisal University
-9.	Certified Google Analytics Professional - Google
-10.	Data Analytics Consulting - KPMG Australia
-11.	Data Visualization with Advanced Excel - PwC
-12.	Do Well Do Good Quiz - Indian Institute of Management, Calcutta
-13.	FINQUEST'23: Where Finance Meets Entrepreneurship of Global Entrepreneurship Week 2023 - Aryabhatta College, University Of Delhi
-14.	Green Economy and Trade - Partnership for Action on Green Economy (PAGE)
-15.	Green Industrial Policy - Partnership for Action on Green Economy (PAGE)
-16.	Introduction to Capital Markets - Corporate Finance Institute® (CFI)
-17.	NISM Financial Literacy Quiz - National Institute of Securities Markets (NISM)
-18.	Private Equity and Venture Capital - Università Bocconi | Coursera
+1.	 Asia Analyst Development Program - JPMorgan Chase & Co.
+2.	 Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
+3.	 Business and Human Rights Global - Clifford Chance
+4.	 Career Catalyst Advisory - KPMG US
+5.	 Virtual Stock Market Event - GSFC University
+6.	 Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
+7.	 Development Economics - Marginal Revolution University
+8.	 Anti Money Laundering - Alfaisal University
+9.	 Certified Google Analytics Professional - Google
+10.	 Data Analytics Consulting - KPMG Australia
+11.	 Data Visualization with Advanced Excel - PwC
+12.	 Do Well Do Good Quiz - Indian Institute of Management, Calcutta
+13.	 FINQUEST'23: Where Finance Meets Entrepreneurship of Global Entrepreneurship Week 2023 - Aryabhatta College, University Of Delhi
+14.	 Green Economy and Trade - Partnership for Action on Green Economy (PAGE)
+15.	 Green Industrial Policy - Partnership for Action on Green Economy (PAGE)
+16.	 Introduction to Capital Markets - Corporate Finance Institute® (CFI)
+17.	 NISM Financial Literacy Quiz - National Institute of Securities Markets (NISM)
+18.	 Private Equity and Venture Capital - Università Bocconi | Coursera
 19.	Quantitative and qualitative research in finance - The Open University
 20.	The India Policy: The Open India Quiz - Indian Institute of Management, Calcutta
 21.	Global Diplomacy - Diplomacy in the Modern World - University of London
@@ -144,7 +144,6 @@ I am open to connecting with others to share insights, collaborate on financial 
 71.	SQL - Sololearn
 72.	Swift 4 - Sololearn
 73.	Javascript - Sololearn
-
 
 ---
 
