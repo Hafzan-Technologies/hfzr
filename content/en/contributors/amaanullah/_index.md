@@ -71,23 +71,23 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 ### Certifications
 
-•	Asia Analyst Development Program - JPMorgan Chase & Co.
-•	Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
-•	Business and Human Rights Global - Clifford Chance
-•	Career Catalyst Advisory - KPMG US
-•	Virtual Stock Market Event - GSFC University
-•	Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
-•	Development Economics - Marginal Revolution University
-•	Anti Money Laundering - Alfaisal University
-•	Certified Google Analytics Professional - Google
-•	Data Analytics Consulting - KPMG Australia
-•	Data Visualization with Advanced Excel - PwC
-•	Do Well Do Good Quiz - Indian Institute of Management, Calcutta
-•	FINQUEST'23: Where Finance Meets Entrepreneurship of Global Entrepreneurship Week 2023 - Aryabhatta College, University Of Delhi
-•	Green Economy and Trade - Partnership for Action on Green Economy (PAGE)
-•	Green Industrial Policy - Partnership for Action on Green Economy (PAGE)
-•	Introduction to Capital Markets - Corporate Finance Institute® (CFI)
-•	NISM Financial Literacy Quiz - National Institute of Securities Markets (NISM)
+• Asia Analyst Development Program - JPMorgan Chase & Co.
+• Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
+• Business and Human Rights Global - Clifford Chance
+• Career Catalyst Advisory - KPMG US
+• Virtual Stock Market Event - GSFC University
+• Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
+• Development Economics - Marginal Revolution University
+• Anti Money Laundering - Alfaisal University
+• Certified Google Analytics Professional - Google
+• Data Analytics Consulting - KPMG Australia
+• Data Visualization with Advanced Excel - PwC
+• Do Well Do Good Quiz - Indian Institute of Management, Calcutta
+• FINQUEST'23: Where Finance Meets Entrepreneurship of Global Entrepreneurship Week 2023 - Aryabhatta College, University Of Delhi
+• Green Economy and Trade - Partnership for Action on Green Economy (PAGE)
+• Green Industrial Policy - Partnership for Action on Green Economy (PAGE)
+• Introduction to Capital Markets - Corporate Finance Institute® (CFI)
+• NISM Financial Literacy Quiz - National Institute of Securities Markets (NISM)
 •	Private Equity and Venture Capital - Università Bocconi | Coursera
 •	Quantitative and qualitative research in finance - The Open University
 •	The India Policy: The Open India Quiz - Indian Institute of Management, Calcutta
