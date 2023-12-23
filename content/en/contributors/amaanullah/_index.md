@@ -174,6 +174,10 @@ I am open to connecting with others to share insights, collaborate on financial 
   Feb 2020 - Mar 2020
   Launched the world's first digital NFT art gallery, redefining the art experience online.
 
+- **Hafzan Research**
+  Nov 2023 - Present
+  Launched a collaborative platform for publishing and sharing research articles
+
 ---
 
 ### Test Scores
