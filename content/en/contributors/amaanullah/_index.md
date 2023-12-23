@@ -71,7 +71,7 @@ I am open to connecting with others to share insights, collaborate on financial 
 
 ### Certifications
 
-72 Certifications in total
+81 Certifications in total
 
 ---
 
@@ -79,6 +79,15 @@ I am open to connecting with others to share insights, collaborate on financial 
 - Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
 - Business and Human Rights Global - Clifford Chance
 - Career Catalyst Advisory - KPMG US
+- Python for Data Science - IBM
+- Predictive Modeling Fundamentals - IBM
+- Financial methods in environmental decisions - The Open University
+- Digital Intelligence - PwC Switzerland
+- Digital Analytics & Regression - IBM
+- Data Science Business Graduate - IBM
+- Data Privacy Fundamentals - IBM
+- Certified Google Creative Professional - Google
+- The Overall Opportunities in the Securities Markets - National Institute of Securities Markets (NISM)
 - Virtual Stock Market Event - GSFC University
 - Aspects of Prevention of Money Laundering Activities - National Institute of Securities Markets (NISM)
 - Development Economics - Marginal Revolution University
